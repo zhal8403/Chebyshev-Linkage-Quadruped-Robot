@@ -43,14 +43,6 @@ Rubber bands transfer torque to all four legs, which move in a Chebyshev linkage
 
 ---
 
-#Printing & Assembly
-- Print parts from `/CAD/STLs`  
-- Refer to `/Docs/assembly_notes.md` for build steps  
-- Use rubber bands for transmission between pulleys and legs  
-- Mount Arduino and driver on top of the frame  
-
----
-
 Code
 The Arduino code (`/Code/motor_control.ino`) turns the stepper motor forward at 10 RPM to show a simple continuous walking motion.  
 
