@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Chebyshev-Linkage Qua
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/365).
 
 
-## 10/9/2025 - CAD Design  
+## 10/9/2025 9:30 PM - CAD Design  
 
 I created the initial CAD model based on Thang010146's video of the quadruped robot in Onshape.
 
@@ -26,5 +26,17 @@ Uploaded all files to GitHub.
 ![full model.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyMywicHVyIjoiYmxvYl9pZCJ9fQ==--7855dee384f2e4755369a0f0a3bdbd7f50d17643/full%20model.png)
 ![Side view.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b1017f903c11ed2acdb8c507b02df225e6e8ad20/Side%20view.png)
 
+  
+
+## 10/9/2025 9:42 PM - GitHub & Documentation  
+
+Set up a GitHub repository for my Chebyshev-linkage quadruped robot project. Uploaded all images from Onshape, Arduino code, and BOM.csv. Organized folders for clarity and wrote a detailed README.md explaining the project, components, and assembly process.
+
+This process helped me think through the order of parts, verify all components are accounted for, and make sure the design is easy to understand for anyone looking at my project.
+
+Next, I plan to finalize my Blueprint project entry and link this GitHub repo.
+
+![Screenshot 2025-10-09 213728.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--82b56f14c8ec2b4e52c2d6df9ed2cad66d6254a9/Screenshot%202025-10-09%20213728.png)
+![Screenshot 2025-10-09 213802.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5527b69cabe8c8f2323b36edbd0b829787cbb38f/Screenshot%202025-10-09%20213802.png)
   
 
