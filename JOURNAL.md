@@ -40,3 +40,14 @@ Next, I plan to finalize my Blueprint project entry and link this GitHub repo.
 ![Screenshot 2025-10-09 213802.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5527b69cabe8c8f2323b36edbd0b829787cbb38f/Screenshot%202025-10-09%20213802.png)
   
 
+## 10/9/2025 9:55 PM - Started Blueprint Project Entry and understanding of it  
+
+I began my Hack Club Blueprint project entry by adding a description explaining the robot’s purpose, the Chebyshev linkage motion, and how the single 28BYJ-48 stepper motor drives all four legs via pulleys and rubber bands. I also uploaded a banner image and additional CAD renders to clearly show the design.
+
+I estimated the project cost to be around $30 for fulfillment, batteries, and jumper wires do to having the other necessary parts and total hours (~4 hours so far).
+
+Next steps include 3D printing all components, assembling the robot with the electronics mounted on the frame, testing the walking motion, and documenting progress with photos and videos. I also plan to make adjustments for pulley tension and leg alignment during testing.
+
+![Screenshot 2025-10-09 215520.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0bedb8d120a54739921729819d067030d665a96e/Screenshot%202025-10-09%20215520.png)
+  
+
