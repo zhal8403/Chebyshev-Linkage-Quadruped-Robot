@@ -1,11 +1,13 @@
 #include <Stepper.h>
 
-const int stepsPerRevolution = 2048;
-Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
+const int STEPS_PER_REVOLUTION = 2048;
+const int MOTOR_RPM = 10;
 
+// Stepper motors rely on pins 8, 9, 10, and 11
+Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 void setup() 
 {
-  myStepper.setSpeed(10); // RPM
+  myStepper.setSpeed(MOTOR_RPM); // RPM
 }
 
 void loop() 
