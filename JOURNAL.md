@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Chebyshev-Linkage Quadruped Robot**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/365).
-
-
 ## 10/9/2025 9:30 PM - CAD Design  
 
 I created the initial CAD model based on Thang010146's video of the quadruped robot in Onshape.
@@ -49,5 +45,13 @@ I estimated the project cost to be around $30 for fulfillment, batteries, and ju
 Next steps include 3D printing all components, assembling the robot with the electronics mounted on the frame, testing the walking motion, and documenting progress with photos and videos. I also plan to make adjustments for pulley tension and leg alignment during testing.
 
 ![Screenshot 2025-10-09 215520.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0bedb8d120a54739921729819d067030d665a96e/Screenshot%202025-10-09%20215520.png)
+  
+
+## 10/27/2025 - Printing first Leg prototype  
+
+I printed the first test version of the leg to evaluate whether the holes were designed with the correct tolerance and to determine if the joint could rotate smoothly without excess friction or looseness. This test will help identify if any dimensional adjustments are needed before final assembly. 
+
+
+![Screenshot 2025-10-27 091052](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--cd6e3eaba20c5baaf3d336c2aaa1f9efb8f31a07/Screenshot%202025-10-27%20091052.png)
   
 
