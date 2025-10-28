@@ -55,3 +55,10 @@ I printed the first test version of the leg to evaluate whether the holes were d
 ![Screenshot 2025-10-27 091052](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--cd6e3eaba20c5baaf3d336c2aaa1f9efb8f31a07/Screenshot%202025-10-27%20091052.png)
   
 
+## 10/28/2025 - Result of first print  
+
+The first print of the leg turned out too small, making several pieces fragile and difficult to handle. To improve durability and fit, I plan to scale up the model for the next print. This adjustment should strengthen the parts and ensure smoother movement during assembly and testing.
+
+![IMG_3249](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--a89388fd81075546552ecbf842fd31e15e54655b/IMG_3249.jpeg)
+  
+
